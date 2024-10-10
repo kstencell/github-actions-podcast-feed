@@ -1,3 +1,4 @@
 # github-actions-podcast-feed
-This repo was created to follow along with the Linkin Learning Professional Certificate course called Career Essentials in GitHub Professional Certificate
+
+This repo has a example feed.yaml file that was used to test [Podcast Generator](https://github.com/marketplace/actions/podcast-generator-kstencell) GitHub Action that I published on the marketplace
 
